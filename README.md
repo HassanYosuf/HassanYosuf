@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on  Java Application Development and Flutter
 - 🌱 I’m currently learning Data Structure and Algorithms / Java Application Development
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Learning New emerging technologies
