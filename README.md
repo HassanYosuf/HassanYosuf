@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on  Java Application Development.
+- 🔭 I’m currently working on  Java Microservies.
 - 🌱 I’m currently learning Data Structure and Algorithms / Machine Learning
 - 👯 I’m looking to collaborate on GitHub / LinkedIn
 - 🤔 I’m looking for help with Learning New emerging technologies
