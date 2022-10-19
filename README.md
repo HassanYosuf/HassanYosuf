@@ -1,4 +1,4 @@
-<img src="linkedin Cover github.png">
+<img src="linkedin Cover Q.png">
           
 - 🔭 I’m currently working in Quantiphi.
 - 🌱 I’m currently learning Data Structure and Algorithms / ETL / Cloud Services
