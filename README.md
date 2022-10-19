@@ -1,7 +1,7 @@
 <img src="linkedin Cover github.png">
           
-- 🔭 I’m currently working on  Java Microservies.
-- 🌱 I’m currently learning Data Structure and Algorithms / Machine Learning
+- 🔭 I’m currently working in Quantiphi.
+- 🌱 I’m currently learning Data Structure and Algorithms / ETL / Cloud Services
 - 👯 I’m looking to collaborate on GitHub / LinkedIn
 - 🤔 I’m looking for help with Learning New emerging technologies
 - 💬 Ask me about?
