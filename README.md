@@ -1,5 +1,5 @@
 <img src="linkedin Cover.png">
- # 💫 About Me:
+ 💫 About Me:
 💼 Currently working as a Framework Engineer at Quantiphi, specializing in backend development, data engineering, and cloud technologies.<br>🌱 Currently learning Data Structures & Algorithms, ETL, and Cloud Services (AWS/GCP).<br>👯 Looking to collaborate on GitHub and LinkedIn for software development projects.<br>🤔 Seeking to explore and learn emerging technologies in software engineering and AI.<br>📫 Reach me via LinkedIn, Twitter, LinkTree, or my website.<br>⚡ Fun fact: I love coding, gaming, and music! 🎮🎶Spring boot, API Integration<br>
 
 
