@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Currently working as a Framework Engineer at Quantiphi, specializing in backend development, data engineering, and cloud technologies.<br>🌱 Currently learning Data Structures & Algorithms, ETL, and Cloud Services (AWS/GCP).<br>👯 Looking to collaborate on GitHub and LinkedIn for software development projects.<br>🤔 Seeking to explore and learn emerging technologies in software engineering and AI.<br>📫 Reach me via LinkedIn, Twitter, LinkTree, or my website.<br>⚡ Fun fact: I love coding, gaming, and music! 🎮🎶<br>
+💼 Currently working as a Framework Engineer at Quantiphi, specializing in backend development, data engineering, and cloud technologies.<br>🌱 Currently learning Data Structures & Algorithms, ETL, and Cloud Services (AWS/GCP).<br>👯 Looking to collaborate on GitHub and LinkedIn for software development projects.<br>🤔 Seeking to explore and learn emerging technologies in software engineering and AI.<br>📫 Reach me via LinkedIn, Twitter, LinkTree, or my website.<br>⚡ Fun fact: I love coding, gaming, and music! 🎮🎶Spring boot, API Integration<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanYosuf&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HassanYosuf&theme=blueberry&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HassanYosuf&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
